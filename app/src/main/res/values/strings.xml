@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WidgetNextU</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="textowidget">Hola Estudiantes de NexTU</string>
+    <string name="texto1">Nombre de la Persona</string>
+    <string name="texto2">23 años</string>
+</resources>
